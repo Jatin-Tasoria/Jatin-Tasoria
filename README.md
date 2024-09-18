@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jatin-Tasoria
 - 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning DeepLearing in Python.
+- 🌱 I’m currently learning DeepLearning in Python.
 - 📫 How to reach me user.email "tasoriaj4@gmail.com".
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: The only "PRIDE" moment I support is a Saiyan's Pride.
