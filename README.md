@@ -12,9 +12,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Jatin-Tasoria&theme=dark&hide_border=true&cache_seconds=1)
 <br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jatin-Tasoria&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Jatin-Tasoria&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jatin-Tasoria&layout=compact&theme=dark)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
