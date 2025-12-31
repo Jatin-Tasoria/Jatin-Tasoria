@@ -12,7 +12,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Jatin-Tasoria&theme=dark&hide_border=true&cache_seconds=1)
 <br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jatin-Tasoria&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jatin-Tasoria&layout=compact&theme=dark)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
