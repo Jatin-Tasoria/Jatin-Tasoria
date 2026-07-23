@@ -166,18 +166,7 @@ Software Developer • Cloud Enthusiast • MCA Student
 
 ---
 
-# 📈 Profile Views
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Jatin-Tasoria&label=Profile+Views&color=blue&style=for-the-badge"/>
-
-</p>
-
----
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Jatin-Tasoria&limit=5&theme=dark&combine_all_yearly_contributions=true)
