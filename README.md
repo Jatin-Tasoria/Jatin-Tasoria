@@ -154,18 +154,6 @@ Software Developer • Cloud Enthusiast • MCA Student
 
 ---
 
-# 🚀 Featured Projects
-
-| Project | Tech |
-|---------|------|
-| 🎵 Mood-Based Music Suggestion | Python |
-| 💰 Expense Analyzer | Python + MySQL |
-| 🌐 Form Validation | HTML CSS JS |
-| 🚗 Smart Parking System | Java + MySQL |
-| ☁️ NEXUS Cloud Storage | React + FastAPI |
-
----
-
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
